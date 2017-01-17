@@ -38,8 +38,8 @@ import { provideAuth } from 'angular2-jwt';
 import { AppComponent } from './app.component';
 import { MainModule } from './main/main.module';
 import { DirectivesModule } from '../components/directives.module';
-import { AccountModule } from './account/account.module';
-import { AdminModule } from './admin/admin.module';
+// import { AccountModule } from './account/account.module';
+// import { AdminModule } from './admin/admin.module';
 
 import constants from './app.constants';
 
